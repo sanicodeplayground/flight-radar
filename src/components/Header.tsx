@@ -13,8 +13,8 @@ const Header = () => {
   return (
     <Paper component="header" elevation={1} className="header">
       <img
-        src="./fly.png"
-        alt="image of an airplane"
+        src="./air-radar.webp"
+        alt="air radar logo"
         // style={{ height: "40px" }}
         className="logo"
       />
